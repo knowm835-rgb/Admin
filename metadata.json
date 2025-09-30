@@ -1,0 +1,5 @@
+{
+  "name": "TruckBhai Admin Panel",
+  "description": "An admin dashboard for the TruckBhai platform to manage users, bookings, campaigns, and broadcasts. It provides a centralized interface for administrative oversight and control over the transport booking ecosystem.",
+  "requestFramePermissions": []
+}
